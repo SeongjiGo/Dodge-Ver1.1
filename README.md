@@ -9,3 +9,6 @@
 - 이를 새로운 프리팹을 입혀 디자인을 재구성하고, 타이틀, 음악, 효과음, 탄의 종류, 탄의 효과등을 추가했다.
 - <img width="789" alt="image" src="https://user-images.githubusercontent.com/46768743/134809263-1740f0cc-3b9a-458f-88ea-bb2c5381d1e2.png">
 - <img width="782" alt="image" src="https://user-images.githubusercontent.com/46768743/134809218-e40da626-970e-4e40-ae1d-18c627447138.png">
+
+# 시연 영상
+- https://drive.google.com/file/d/1TkxlxepBxSMOy80FH9DDwTc-L1Bm8k0q/view?usp=sharing
